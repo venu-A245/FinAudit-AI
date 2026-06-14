@@ -23,5 +23,22 @@
     "key": "ctrl+/",
     "command": "editor.action.commentLine",
     "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key":"alt+f",
+    "command":"ruff.executeformat"
+  },
+  {
+    "key":"alt+i",
+    "command":"ruff.executeOrganizeImports"
+  },
+  {
+    "key":"alt+e",
+    "command":"editor.debug.action.selectioToRepl"
+  },
+  {
+    "key":"alt+p",
+    "command":"python.setInterpreter"
   }
+
 ]
