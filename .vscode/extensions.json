@@ -1,0 +1,12 @@
+
+	"recommendations": [
+		"ms-python.python",
+		"ms-toolsai.jupyter",
+		"GitHub.copilot",
+		"GitHub.copilot-chat",
+		"visualstudioexptteam.vscodeintellicode",
+		"ms-azuretools.vscode-docker",
+		"redhat.vscode-yaml",
+		"dbaeumer.vscode-eslint",
+	],
+	"unwantedRecommendations": []
